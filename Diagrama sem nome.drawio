@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T19:07:02.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="Rfi5gnlzs85Cb7munLky" version="21.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-11T19:07:40.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="NE2n2yulO5Qpvg2eNfmx" version="21.2.9" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER - 1">
     <mxGraphModel dx="794" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -91,7 +91,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="S6aAnbkNuKpzq8dBxCCk-1" value="Banco de Dados - Clínica - Modelo Conceitual" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="S6aAnbkNuKpzq8dBxCCk-1" value="Banco de Dados - Clínica - Modelo Lógico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
